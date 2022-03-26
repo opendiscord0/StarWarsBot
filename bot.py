@@ -178,6 +178,6 @@ async def rank(ctx, ranknum=None):
 
 
 if __name__ == '__main__':
-    bot.run("OTUzMzc5NDc0MDM5MjU1MTAx.YjDt0w.y2Ll_cbigMh8SjOvll8dkeyZJ0E")
+    bot.run("")
 
 
